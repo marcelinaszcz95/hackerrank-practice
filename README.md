@@ -4,7 +4,7 @@ This repository contains my solutions to Hackerrank practice problems with Pytho
 
 - Python
   01. Introduction
-    - Say Hello, World! | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/01.%20Introduction/001.%20Say%20Hello%2C%20World!%20With%20Python) | Score: 5
+    - Say Hello, World! | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/01.Introduction/001_say_hello_world.py) | Score: 5
     - If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem)| [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/01.Introduction/002_if_else.py) | Score: 10
     - Arithmetic operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/01.Introduction/003_arithmetic_operators.py) | Score: 10
     - Python division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/01.Introduction/004_python_division.py) | Score: 10
