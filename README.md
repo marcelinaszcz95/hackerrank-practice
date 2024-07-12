@@ -16,10 +16,10 @@ This repository contains my solutions to Hackerrank practice problems with Pytho
 
   02. Basic Data Types
    
-    - List comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/001_list_comprehensions.py) | Score: 5
-    - Find second maximum number in a list | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)| [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/002_find_second_maximum_number_in_a_list.py) | Score: 10
-    - Nested lists | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/003_nested_lists.py) | Score: 10
-    - Find the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/004_find_the_percentage.py) | Score: 10
-    - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/005_lists.py) | Score: 10
-    - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/006_tuples.py) | Score: 10
+      - List comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/001_list_comprehensions.py) | Score: 5
+      - Find second maximum number in a list | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)| [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/002_find_second_maximum_number_in_a_list.py) | Score: 10
+      - Nested lists | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/003_nested_lists.py) | Score: 10
+      - Find the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/004_find_the_percentage.py) | Score: 10
+      - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/005_lists.py) | Score: 10
+      - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/marcelinaszcz95/hackerrank-practice/blob/main/Python/02.Basic_Data_Types/006_tuples.py) | Score: 10
 
