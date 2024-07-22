@@ -2,13 +2,7 @@
 # Score: 10
 
 def swap_case(s):
-    lista = [char for char in s]    
-    lista2 = []
+    return ''.join(char.lower() if char.isupper() else char.upper() for char in s)
 
-    for letter in lista:
-        if letter.islower():
-            lista2.append(letter.upper())
-        else:
-            lista2.append(letter.lower())
-    
-    return ''.join(lista2)
+s = input()
+print(swap_case(s))

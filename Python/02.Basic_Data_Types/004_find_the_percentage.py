@@ -1,16 +1,11 @@
 # Problem: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 # Score: 10
 
+for student in range(num_of_students):
+    name, *grade_inp = input().split()
+    grades = list(map(float, grade_inp))
+    students_grades[name] = grades
 
-n = int(input())
-student_marks = {}
-for _ in range(n):
-    name, *line = input().split()
-    scores = list(map(float, line))
-    student_marks[name] = scores
 query_name = input()
-
-suma = (sum(student_marks[query_name]))
-nb_of_marks = len(student_marks[name])
-avg = suma/nb_of_marks
-print('{:.2f}'.format(avg))
+if query_name in students_grades:
+    print('{:.2f}'.format(sum(students_grades[query_name])/len(students_grades[query_name])))
