@@ -1,6 +1,9 @@
 # Problem: https://www.hackerrank.com/challenges/finding-the-percentage/problem
 # Score: 10
 
+num_of_students = int(input())
+students_grades = {}
+
 for student in range(num_of_students):
     name, *grade_inp = input().split()
     grades = list(map(float, grade_inp))
